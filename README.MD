@@ -2,7 +2,6 @@
 
 
 > This Python program creates a Sierpinski Triangle with EzGraphics <br/>
-Link to the [Quiz Bowl Practice Website](http://quizbowlpractice.pythonanywhere.com/)
 ---
 
 ### Table of Contents
